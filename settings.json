@@ -1,8 +1,8 @@
 {
-  "name": "GoldenVanillaSMP",
+  "name": "afk bot",
   "bot-account": {
     "username": "goldensku113r afk",
-    "password": "1234",
+    "password": "",
     "type": "online"
   },
   "server": {
