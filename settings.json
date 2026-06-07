@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "GoldenVanillaSMP.aternos.me:55131",
-    "port": 55131,
+    "port": tonguefish.aternos.host:55131,
     "version": "1.21.11",
     "try-creative": false
   },
