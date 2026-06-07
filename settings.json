@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "GoldenVanillaSMP",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "GoldenVanillaSMP.aternos.me",
