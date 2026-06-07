@@ -3,9 +3,9 @@
   "bot-account": {
     "username": "goldensku113r afk",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
-  "server": {GoldenVanillaSMP
+  "server": {
     "ip": "GoldenVanillaSMP.aternos.me:55131",
     "port": 55131,
     "version": "1.21.11",
